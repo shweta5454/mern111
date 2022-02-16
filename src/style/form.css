@@ -1,0 +1,18 @@
+
+.rowstyle {
+    /* background-color:pink; */
+    color: black;
+    height: 600px;
+    margin: auto;
+  }
+  
+  input {
+    border-style: none;
+  }
+  
+  .btn{
+      background-color:#4B0082;
+      color: aliceblue;
+      
+  }
+  
